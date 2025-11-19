@@ -34,7 +34,7 @@ bio: My research interests include computer vision, deep learning and medical im
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ran.li@wustl.edu'
+    url: 'mailto:ran.li@wustl.edu'
     label: E-mail Me
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=0QCSrTcAAAAJ&hl=en-us
