@@ -1,5 +1,5 @@
 ---
 title: My first blog
-date: 11-19-2025
+date: 2025-11-19
 ---
-Hello world! 
+   Hello world! 
