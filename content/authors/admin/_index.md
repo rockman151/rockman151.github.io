@@ -57,6 +57,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Ran Li — a Research Scientist at a surgical robotics company, where I develop machine learning and medical imaging technologies to support more precise and efficient surgical procedures. I completed my PhD in Imaging Science at Washington University in St. Louis, specializing in MRI/PET analysis and deep learning for medical imaging. This blog is my space to share insights, document what I’m learning, and explore ideas at the intersection of AI and medical technology.
