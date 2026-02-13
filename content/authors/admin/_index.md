@@ -57,4 +57,6 @@ highlight_name: true
 website: ""
 ---
 
-Hi, I'm Ran Li — a Research Scientist at a surgical robotics company, where I develop machine learning and medical imaging technologies to support more precise and efficient surgical procedures. I completed my PhD in Imaging Science at Washington University in St. Louis, specializing in MRI/PET analysis and deep learning for medical imaging. This blog is my space to share insights, document what I’m learning, and explore ideas at the intersection of AI and medical technology.
+Hi, I’m Ran Li — a Research Scientist at a surgical robotics company, where I develop machine learning and medical imaging technologies to enable more precise, efficient, and intelligent surgical procedures.
+I earned my PhD in Imaging Science from Washington University in St. Louis, with a focus on MRI/PET analysis and deep learning for medical image understanding. My work spans medical image segmentation, multimodal modeling, real-time deployment, and translating AI research into clinically usable systems.
+This blog is a space for me to share technical insights, document what I’m learning, and explore ideas at the intersection of AI, imaging science, and medical technology.
